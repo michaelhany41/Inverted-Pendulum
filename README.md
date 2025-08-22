@@ -1,1 +1,1 @@
-# Inverted-Pendulum
+# Inverted-Pendulum_STM
